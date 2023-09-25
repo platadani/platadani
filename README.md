@@ -1,8 +1,17 @@
-### ⚙️ &nbsp;GitHub Analytics
+# Hi 👋 I am Dani! 
+
+I'm an iOS developer.
+
+---
+
+[![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
+[![GitHub](https://img.shields.io/github/followers/platadani?label=follow&style=social)](https://github.com/platadani)
+
+---
 
 <p align="center">
-<a href="https://github.com/platadani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=platadani&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=platadani&layout=compact&langs_count=6&theme=nord"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=platadani&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=platadani&theme=dark&hide_border=true" width="400">
 </p>
+
+---
