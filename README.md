@@ -2,7 +2,7 @@
 
 I'm an iOS developer.
 
-🌏 Personal portfolio: https://platadani.github.io
+🌏<a href="https://platadani.github.io">Personal portfolio</a>
 
 ---
 
