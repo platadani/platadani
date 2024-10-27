@@ -1,13 +1,10 @@
-# Hi 👋 I am Dani! 
+# Hi there! 👋 I'm Dani! 
 
-I'm an iOS developer.
+I’m an iOS developer who loves building apps – from indie projects to client-tailored solutions. Whether it’s experimenting with Swift or pushing features to the App Store, I’m all about creating great mobile experiences.
+<br><br>
+You can check out my apps in my portfolio. I’ve developed all kinds, even a few games! 👾
 
 🌏<a href="https://platadani.github.io">Personal portfolio</a>
-
----
-
-[![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
-[![GitHub](https://img.shields.io/github/followers/platadani?label=follow&style=social)](https://github.com/platadani)
 
 ---
 
@@ -64,6 +61,11 @@ I'm an iOS developer.
         </tr>
     </tbody>
 </table>
-
-
 </div>
+
+---
+
+[![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
+[![GitHub](https://img.shields.io/github/followers/platadani?label=follow&style=social)](https://github.com/platadani)
+
+
