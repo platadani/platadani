@@ -2,6 +2,8 @@
 
 I'm an iOS developer.
 
+🌏 Personal portfolio: https://platadani.github.io
+
 ---
 
 [![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
