@@ -21,6 +21,7 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
             <th align="center">Book highlights</th>
             <th align="center">New on Ps Plus</th>
             <th align="center">GPX Workouts</th>
+            <th align="center">AdMob Widgets</th>
             <th align="center">All Workouts Challenge</th>
             <th align="center">Stream Guide - AI Search</th>
             <th align="center">Hexcodle game</th>
@@ -41,6 +42,11 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
             <td align="center">
                 <a href="https://apps.apple.com/app/id6463001431">
                     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/b4/47/bab44774-2c9a-5261-1d9c-7020e1069ef3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.png" alt="GPX Workouts" width="50" height="50" style="border-radius: 22%">
+                </a>
+            </td>
+          <td align="center">
+                <a href="https://apps.apple.com/app/admob-widgets/id6737562361">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/9c/7b/ff9c7b3a-b41a-3f4d-9a58-fc65fa9fca52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.png" alt="AdMob Widgets" width="50" height="50" style="border-radius: 22%">
                 </a>
             </td>
             <td align="center">
