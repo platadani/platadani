@@ -8,12 +8,6 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=platadani&theme=dark&hide_border=true" width="400">
-</p>
-
----
-
 <div align="center">
 <table align="center" style="width: 100%;">
     <thead>
