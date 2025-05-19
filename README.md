@@ -63,7 +63,6 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
 </table>
 </div>
 -->
----
 
 [![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
 [![GitHub](https://img.shields.io/github/followers/platadani?label=follow&style=social)](https://github.com/platadani)
