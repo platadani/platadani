@@ -7,7 +7,7 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
 🌏<a href="https://platadani.github.io">Personal portfolio</a>
 
 ---
-
+<!--
 <div align="center">
 <table align="center" style="width: 100%;">
     <thead>
@@ -62,7 +62,7 @@ You can check out my apps in my portfolio. I’ve developed all kinds, even a fe
     </tbody>
 </table>
 </div>
-
+-->
 ---
 
 [![Twitter](https://img.shields.io/twitter/follow/daniplata_?style=social)](https://twitter.com/daniplata_)
